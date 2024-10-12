@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Johnny Jiang. I'm a recent new Grad of University of Toronto in Canada.
+My name is **Johnny Jiang**. I'm a recent new Grad of University of Toronto in Canada.
 
 <picture>
 <!--   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyjly&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" /> -->
