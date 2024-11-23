@@ -36,16 +36,24 @@ My name is **Johnny Jiang**. I'm a recent new Grad of University of Toronto in C
   <summary>✨ <a style="text-decoration:none;" href="https://github.com/johnnyjly/Astra">Astra</a> - Python / SQLAlchemy</summary>
   <br>
   
-* A local, GUI-based program for QEYnet Inc to read and interact with telemetry data with a tag-sensitive alarm system.
-* Contributed to the overall database-related coding and testing using SQLAlchemy and unit test, which provided a robust database with efficient data retrieval and storage between devices (with different     configurations), alarms and telemetry data.
+*  A GUI-based application for **QEYnet Inc.**, enabling their employees and customers to read and interact
+with satellite telemetry data and manage tag-sensitive alarms.
+*  Designed and engineered a robust database using SQLAlchemy for efficient data retrieval and storage across
+multiple devices, alarms, and telemetry data.
+*  Implemented reliable and scalable file I/O mechanisms for reading custom telemetry files, ensuring data
+persistence across sessions and seamless integration with diverse device configurations.
+*  Conducted comprehensive testing within a CI workflow, ensuring data integrity and application reliability.
+*  Collaborated within a full Agile development cycle using Scrum and Kanban methodologies via Notion, and
+perfectly accomplished all the partner’s requirements.
 </details>
 
 <details>
   <summary>🌱 <a href="https://github.com/johnnyjly/Petpal">Petpal</a> - HTML / CSS / Django REST / JavaScript / React.js</summary>
   <br>
 
-* A pet adoption website where pet seekers can search for pets and apply for adoptions, while pet adopters can set up shelters, list pets and approve for adoptions.
-* Each user may sign up/login, post stories and interact with each other through comments.
+* A comprehensive pet adoption platform that enables pet seekers to search and apply for pets, while allowing pet adopters to establish shelters, list pets, and manage adoption approvals.
+* Frontend - Developed a dynamic and responsive user interface using React, incorporating React Hooks for efficient state management, React Router for seamless client-side routing, and intuitive navigation features.
+* Backend - Constructed a robust RESTful API with the Django REST Framework, utilizing models and serializers alongside CRUD Views to handle all data operations effectively. Implemented token-based authentication using JWT to secure user data.
 </details>
 
 <details>
