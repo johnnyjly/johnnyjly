@@ -25,23 +25,21 @@ Here are some ideas to get you started:
   Fun fact: ...
 -->
 
-我叫 **Johnny Jiang**，是加拿大多伦多大学的应届毕业生。
+我叫 **Johnny Jiang**，目前就读于香港中文大学人工智能硕士，本科是加拿大多伦多大学。
 
-My name is **Johnny Jiang**. I'm a recent new Grad of University of Toronto in Canada.
+My name is **Johnny Jiang**. I'm currently a graduate student of Chinese University of Hong Kong (MSc in AI) and I had my undergrad study in University of Toronto in Canada (CS).
 
 <picture>
 <!--   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnnyjly&layout=compact&hide_title=1&card_width=300" alt="我的仓库中使用最多的编程语言 / Top language used in my repos" /> -->
 <!--   <img align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=johnnyjly&show_icons=true&hide=stars,issues" /> -->
 </picture>
 
-* 🧐 对全栈开发感兴趣，近期专注于 **MERN** 技术栈。<br>
-  Interested in full stack development. Recently focus on **MERN** Stack.
-* :pencil2: 技术栈：React.js / HTML / CSS / Django REST / Python / SQL。<br>
-  Tech stack: React.js / HTML / CSS / Django REST / Python / SQL.
-* 🎓 计算机科学荣誉理学学士，平均绩点 3.94/4.00。<br>
-  Honours Bachelor of Science in Computer Science GPA 3.94/4.00.
-* 📚 正在学习 Node.js / MongoDB / Kubernetes。<br>
-  Currently learning Node.js / MongoDB / Kubernetes.
+* 🧐 对全栈开发感兴趣，近期专注于 **Agent** 开发。<br>
+  Interested in full stack development. Recently focus on **Agent** Stack.
+* :pencil2: 技术栈：Python、Java、JavaScript、SQL、FastAPI、Node.js、Spring Boot、REST、GraphQL。<br>
+  Tech stack: Python、Java、JavaScript、SQL、FastAPI、Node.js、Spring Boot、REST、GraphQL.
+* 🎓 计算机科学荣誉理学学士，平均绩点 3.95/4.00。<br>
+  Honours Bachelor of Science in Computer Science GPA 3.95/4.00.
 * :thought_balloon: 欢迎在[讨论区](https://github.com/johnnyjly/johnnyjly/discussions/new/choose)向我提问！<br>
   Ask me anything at [Discussions](https://github.com/johnnyjly/johnnyjly/discussions/new/choose)!
 
